@@ -15,8 +15,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Innocent-Leo/QR-code-component.git)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [GitHub](https://github.com/Innocent-Leo/QR-code-component.git)
+- Live Site URL: [Netlify](https://css-qr-code-component.netlify.app/)
 
 ### Built with
 
@@ -26,6 +26,5 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- LinkedIn - [Innocent-Leo](https://www.linkedin.com/in/innocent-okeke-55990b20a)
+- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/Innocent-Leo)
