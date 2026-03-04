@@ -38,7 +38,7 @@ Although simple in functionality, this project emphasizes attention to visual de
 
 ## Screenshot
 
-![](./my-preview.jpg)
+![](./preview.jpg)
 
 ---
 
