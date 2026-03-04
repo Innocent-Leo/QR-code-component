@@ -1,30 +1,54 @@
-# Frontend Mentor - QR code component solution
+# QR Code Card UI
 
-This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H).
+A responsive QR code card component built with semantic HTML and modern CSS.
 
-## Table of contents
+This project focuses on clean layout structure, spacing consistency, and responsive centering techniques using Flexbox.
 
-- [Screenshot](#screenshot)
-- [Links](#links)
-- [Built with](#built-with)
-- [Author](#author)
+---
 
-### Screenshot
+## Overview
+
+The goal of this project was to recreate a minimal UI component while maintaining:
+
+- Semantic HTML structure
+- Consistent spacing and typography
+- Responsive layout behavior across screen sizes
+- Clean and readable CSS organization
+
+Although simple in functionality, this project emphasizes attention to visual detail and layout precision.
+
+---
+
+## Built with
+
+- HTML5
+- CSS3
+- Flexbox
+
+---
+
+## What I Practiced
+
+- Structuring semantic markup
+- Centering techniques with Flexbox
+- Managing spacing and visual hierarchy
+- Writing clean, maintainable CSS
+
+---
+
+## Screenshot
 
 ![](./my-preview.jpg)
 
-### Links
+---
 
-- Solution URL: [github.com/Innocent-Leo/QR-code-component.git](https://github.com/Innocent-Leo/QR-code-component.git)
-- Live Site URL: [css-qr-code-component.netlify.app](https://css-qr-code-component.netlify.app/)
+## Live Demo
 
-### Built with
+[View Live Site](https://css-qr-code-component.netlify.app/)
 
-- Semantic HTML5 markup
-- CSS custom properties
-- Flexbox
+---
 
-## Author
+## Future Improvements
 
-- LinkedIn - [@Innocent Okeke](https://www.linkedin.com/in/innocent-okeke-55990b20a)
-- Frontend Mentor - [@Innocent-Leo](https://www.frontendmentor.io/profile/Innocent-Leo)
+- Improve accessibility attributes
+- Explore component scaling within a larger layout system
